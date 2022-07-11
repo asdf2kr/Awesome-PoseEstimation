@@ -75,17 +75,17 @@ This is a collection of papers for pose estimation.
 
 ---
 # Datasets
-<br> <font size=3>COCO Datasets<b> </b></font>
-<br> <font size=2>[[paper]](https://arxiv.org/abs/1405.0312) [[website]](https://cocodataset.org/#home)</font>
+<br> <font size=3><b>COCO Datasets<b> </b></font>
+<font size=2>[[paper]](https://arxiv.org/abs/1405.0312) [[website]](https://cocodataset.org/#home)</font>
 
-<br> <font size=3>MPII Human Pose Dataset<b> </b></font>
-<br> <font size=2>[[paper]](http://human-pose.mpi-inf.mpg.de/contents/andriluka14cvpr.pdf) [[website]](http://human-pose.mpi-inf.mpg.de/)</font>
+<br> <font size=3><b>MPII Human Pose Dataset<b> </b></font>
+<font size=2>[[paper]](http://human-pose.mpi-inf.mpg.de/contents/andriluka14cvpr.pdf) [[website]](http://human-pose.mpi-inf.mpg.de/)</font>
 
-<br> <font size=3>LSP (Leeds Sports Pose) Dataset<b> </b></font>
-<br> <font size=2>[[paper]]() [[website]](http://sam.johnson.io/research/lsp.html)</font>
+<br> <font size=3><b>LSP (Leeds Sports Pose) Dataset<b> </b></font>
+<font size=2>[[paper]]() [[website]](http://sam.johnson.io/research/lsp.html)</font>
 
-<br> <font size=3>FLIC (Frames labeled In Cinema) Dataset<b> </b></font>
-<br> <font size=2>[[paper]]() [[website]](https://bensapp.github.io/flic-dataset.html)</font>
+<br> <font size=3><b>FLIC (Frames labeled In Cinema) Dataset<b> </b></font>
+<font size=2>[[paper]]() [[website]](https://bensapp.github.io/flic-dataset.html)</font>
 
-<br> <font size=3>PoseTrack Datasets<b> </b></font>
-<br> <font size=2>[[paper]]() [[website]](https://posetrack.net)</font>
+<br> <font size=3><b>PoseTrack Datasets<b> </b></font>
+<font size=2>[[paper]]() [[website]](https://posetrack.net)</font>
