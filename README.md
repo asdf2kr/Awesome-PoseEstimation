@@ -1,5 +1,5 @@
 # Awesome-Pose Estimation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/asdf2kr/Awesome-PoseEstimation)
-This a collecttion of papers for pose estimation.
+This is a collection of papers for pose estimation.
 <br>
 ---
 # Table of Contents
